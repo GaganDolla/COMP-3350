@@ -1,1 +1,1 @@
-# COMP-3350
+# COMP-3350 Group Project
